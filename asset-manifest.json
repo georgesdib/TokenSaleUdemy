@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/TokenSaleUdemy/static/css/main.a3487775.chunk.css",
+    "main.js": "/TokenSaleUdemy/static/js/main.652bf84a.chunk.js",
+    "main.js.map": "/TokenSaleUdemy/static/js/main.652bf84a.chunk.js.map",
+    "runtime-main.js": "/TokenSaleUdemy/static/js/runtime-main.f89531fb.js",
+    "runtime-main.js.map": "/TokenSaleUdemy/static/js/runtime-main.f89531fb.js.map",
+    "static/js/2.8400b2fc.chunk.js": "/TokenSaleUdemy/static/js/2.8400b2fc.chunk.js",
+    "static/js/2.8400b2fc.chunk.js.map": "/TokenSaleUdemy/static/js/2.8400b2fc.chunk.js.map",
+    "index.html": "/TokenSaleUdemy/index.html",
+    "precache-manifest.7d1004e62aa2ffc9c72bf51c2bfa71b4.js": "/TokenSaleUdemy/precache-manifest.7d1004e62aa2ffc9c72bf51c2bfa71b4.js",
+    "service-worker.js": "/TokenSaleUdemy/service-worker.js",
+    "static/css/main.a3487775.chunk.css.map": "/TokenSaleUdemy/static/css/main.a3487775.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f89531fb.js",
+    "static/js/2.8400b2fc.chunk.js",
+    "static/css/main.a3487775.chunk.css",
+    "static/js/main.652bf84a.chunk.js"
+  ]
+}
